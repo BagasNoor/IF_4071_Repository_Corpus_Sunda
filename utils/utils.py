@@ -10,12 +10,14 @@ class Formatter:
     def process(self, 
                   transcript_dir: str,
                   audio_dir: str, 
+                  recording_device: str,
                   topics: list[str], 
                   topics_endpointings: list[float],
                   environment: str,
                   language: str,
                   gender: Literal['M','F'],
                   speaker_name: str = 'S01',
+                  end_timestamp_adder: float = 0.0
                   ):
 
         transcript_data = {}
@@ -37,7 +39,7 @@ class Formatter:
             for idx, line in enumerate(content.splitlines()):
                 # Extract the data
                 line_parts = line.strip().split()
-                start_timestamp, end_timestamp, transcript = float(line_parts[0]), float(line_parts[1]), " ".join(line_parts[2:])
+                start_timestamp, end_timestamp, transcript = float(line_parts[0]), float(line_parts[1]) + end_timestamp_adder, " ".join(line_parts[2:])
 
                 topic_idx = self._topic_helper(start_timestamp, topics_endpointings)
                 topic_name = topics[topic_idx]
@@ -53,7 +55,8 @@ class Formatter:
                     'speaker': speaker_name,
                     'topic': topic_name,
                     'environment': environment,
-                    'language': language
+                    'language': language,
+                    'recording_device': recording_device
                 }
 
                 # Extract the audio and save
@@ -81,7 +84,9 @@ class Formatter:
             "Topic": [data[filename]['topic'] for filename in filenames],
             "Duration": [data[filename]['duration'] for filename in filenames],
             "Environment": [data[filename]['environment'] for filename in filenames],
-            "Quality": ["to be examed" for _ in filenames]
+            "Device": [data[filename]['recording_device'] for filename in filenames],
+            "Quality": ["to be examed" for _ in filenames],
+            "Note": ["to be filled" for _ in filenames]
         })
 
         if os.path.exists(f"{metadata_dir}/metadata.csv"):
@@ -116,22 +121,26 @@ class Formatter:
 if __name__ == "__main__":
     formatter = Formatter()
     formatter.process(
-        "../bagas_transkrip.txt",
-        "../Bagas-Sunda-Audacity.wav",
+        "bagas_transkrip.txt",
+        "Bagas-Sunda-Audacity.wav",
+        "Headphone",
         ["Rutinitas","Kenangan","Keresahan"],
         [1.647603, 395.554329, 617.704644],
         "Indoor",
         "Sunda",
         "M",
-        "S01"
+        "S01",
+        0.015
     )
     formatter.process(
-        "../ibu_transkrip.txt",
-        "../Ibu-Sunda-Audacity.wav",
+        "ibu_transkrip.txt",
+        "Ibu-Sunda-Audacity.wav",
+        "Headphone",
         ["Rutinitas","Kenangan","Keresahan"],
         [0.543338, 412.140095, 731.312690],
         "Indoor",
         "Sunda",
         "F",
-        "S02"
+        "S02",
+        0.015
     )
