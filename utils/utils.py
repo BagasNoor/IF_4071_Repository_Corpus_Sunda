@@ -121,26 +121,26 @@ class Formatter:
 if __name__ == "__main__":
     formatter = Formatter()
     formatter.process(
-        "bagas_transkrip.txt",
-        "Bagas-Sunda-Audacity.wav",
+        "daffa_transkrip.txt",
+        "Daffa-Sunda-Audacity.wav",
         "Headphone",
         ["Rutinitas","Kenangan","Keresahan"],
-        [1.647603, 395.554329, 617.704644],
+        [0, 334.671000, 593.165562],
         "Indoor",
         "Sunda",
         "M",
-        "S01",
+        "S03",
         0.015
     )
     formatter.process(
-        "ibu_transkrip.txt",
-        "Ibu-Sunda-Audacity.wav",
+        "mba_fatimah_transkrip.txt",
+        "Mba-Fatimah-Sunda-Audacity.wav",
         "Headphone",
         ["Rutinitas","Kenangan","Keresahan"],
-        [0.543338, 412.140095, 731.312690],
+        [0, 413.229688, 634.397187],
         "Indoor",
         "Sunda",
         "F",
-        "S02",
+        "S04",
         0.015
     )
