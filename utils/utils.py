@@ -33,12 +33,14 @@ class Formatter:
         os.makedirs(annotation_dir , exist_ok=True)
 
         # Read the transcript
-        with open(transcript_dir, "r") as f:
+        with open(transcript_dir, "r", encoding="utf-8") as f:
             content = f.read()
 
             for idx, line in enumerate(content.splitlines()):
                 # Extract the data
                 line_parts = line.strip().split()
+                if not line_parts:
+                    continue
                 start_timestamp, end_timestamp, transcript = float(line_parts[0]), float(line_parts[1]) + end_timestamp_adder, " ".join(line_parts[2:])
 
                 topic_idx = self._topic_helper(start_timestamp, topics_endpointings)
@@ -143,4 +145,26 @@ if __name__ == "__main__":
         "F",
         "S04",
         0.015
+    )
+    formatter.process(
+        "../transkrip_M_me.txt",
+        "../audio_M_me.wav",
+        "Headphone",
+        ["Rutinitas","Kenangan","Keresahan"],
+        [0, 688.34, 1160.14],
+        "Indoor",
+        "Sunda",
+        "M",
+        "S05"
+    )
+    formatter.process(
+        "../transkrip_F_sumedang.txt",
+        "../audio_F_sumedang.wav",
+        "Headphone",
+        ["Rutinitas","Kenangan","Keresahan"],
+        [0, 357.41, 631.58],
+        "Indoor",
+        "Sunda",
+        "F",
+        "S06"
     )
