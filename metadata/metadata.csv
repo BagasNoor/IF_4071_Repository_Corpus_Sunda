@@ -58,14 +58,14 @@ S01_T01_055.wav,S01,M,Sunda,Rutinitas,2.836568999999997,Indoor,Headphone,Good,-
 S01_T01_056.wav,S01,M,Sunda,Rutinitas,2.150944999999979,Indoor,Headphone,Acceptable,Audio ended a little bit earlier
 S01_T01_057.wav,S01,M,Sunda,Rutinitas,1.246953999999988,Indoor,Headphone,Good,-
 S01_T01_058.wav,S01,M,Sunda,Rutinitas,2.4465289999999698,Indoor,Headphone,Good,-
-S01_T01_059.wav,S01,M,Sunda,Rutinitas,2.6949829999999797,Indoor,Headphone,Good,-
+S01_T01_059.wav,S01,M,Sunda,Rutinitas,2.69498299999998,Indoor,Headphone,Good,-
 S01_T01_060.wav,S01,M,Sunda,Rutinitas,0.876277999999985,Indoor,Headphone,Good,-
 S01_T01_061.wav,S01,M,Sunda,Rutinitas,3.5920030000000054,Indoor,Headphone,Acceptable,Minor microphone popping
 S01_T01_062.wav,S01,M,Sunda,Rutinitas,1.9731009999999856,Indoor,Headphone,Good,-
 S01_T01_063.wav,S01,M,Sunda,Rutinitas,3.2150709999999947,Indoor,Headphone,Acceptable,Minor microphone popping
 S01_T01_064.wav,S01,M,Sunda,Rutinitas,0.8235909999999649,Indoor,Headphone,Good,-
 S01_T01_065.wav,S01,M,Sunda,Rutinitas,4.174209999999988,Indoor,Headphone,Good,-
-S01_T01_066.wav,S01,M,Sunda,Rutinitas,2.0765379999999998,Indoor,Headphone,Good,-
+S01_T01_066.wav,S01,M,Sunda,Rutinitas,2.076538,Indoor,Headphone,Good,-
 S01_T01_067.wav,S01,M,Sunda,Rutinitas,1.3587029999999911,Indoor,Headphone,Good,-
 S01_T01_068.wav,S01,M,Sunda,Rutinitas,3.441660999999982,Indoor,Headphone,Good,-
 S01_T01_069.wav,S01,M,Sunda,Rutinitas,1.1622529999999929,Indoor,Headphone,Good,-
@@ -226,7 +226,7 @@ S01_T03_223.wav,S01,M,Sunda,Keresahan,1.176089999999931,Indoor,Headphone,Good,-
 S01_T03_224.wav,S01,M,Sunda,Keresahan,5.32654100000002,Indoor,Headphone,Good,-
 S01_T03_225.wav,S01,M,Sunda,Keresahan,2.3773029999999835,Indoor,Headphone,Good,-
 S01_T03_226.wav,S01,M,Sunda,Keresahan,2.9407640000000583,Indoor,Headphone,Good,-
-S01_T03_227.wav,S01,M,Sunda,Keresahan,1.9002629999999956,Indoor,Headphone,Good,-
+S01_T03_227.wav,S01,M,Sunda,Keresahan,1.900262999999996,Indoor,Headphone,Good,-
 S01_T03_228.wav,S01,M,Sunda,Keresahan,1.3096160000000054,Indoor,Headphone,Good,-
 S01_T03_229.wav,S01,M,Sunda,Keresahan,4.113803999999959,Indoor,Headphone,Good,-
 S01_T03_230.wav,S01,M,Sunda,Keresahan,2.745025999999939,Indoor,Headphone,Good,-
@@ -236,7 +236,7 @@ S01_T03_233.wav,S01,M,Sunda,Keresahan,3.092697999999928,Indoor,Headphone,Accepta
 S01_T03_234.wav,S01,M,Sunda,Keresahan,5.298764999999889,Indoor,Headphone,Good,-
 S01_T03_235.wav,S01,M,Sunda,Keresahan,2.1711299999999483,Indoor,Headphone,Good,-
 S01_T03_236.wav,S01,M,Sunda,Keresahan,1.4524959999999965,Indoor,Headphone,Good,-
-S01_T03_237.wav,S01,M,Sunda,Keresahan,1.9071310000000492,Indoor,Headphone,Good,-
+S01_T03_237.wav,S01,M,Sunda,Keresahan,1.9071310000000488,Indoor,Headphone,Good,-
 S01_T03_238.wav,S01,M,Sunda,Keresahan,0.9231469999999716,Indoor,Headphone,Good,-
 S01_T03_239.wav,S01,M,Sunda,Keresahan,3.3838579999999183,Indoor,Headphone,Good,-
 S01_T03_240.wav,S01,M,Sunda,Keresahan,0.5798919999999725,Indoor,Headphone,Good,-
@@ -313,7 +313,7 @@ S01_T03_310.wav,S01,M,Sunda,Keresahan,1.3116589999999633,Indoor,Headphone,Good,-
 S01_T03_311.wav,S01,M,Sunda,Keresahan,1.4038269999999784,Indoor,Headphone,Good,-
 S01_T03_312.wav,S01,M,Sunda,Keresahan,1.2677219999999352,Indoor,Headphone,Good,-
 S01_T03_313.wav,S01,M,Sunda,Keresahan,2.544322999999963,Indoor,Headphone,Good,-
-S01_T03_314.wav,S01,M,Sunda,Keresahan,1.9402209999999516,Indoor,Headphone,Good,-
+S01_T03_314.wav,S01,M,Sunda,Keresahan,1.940220999999952,Indoor,Headphone,Good,-
 S01_T03_315.wav,S01,M,Sunda,Keresahan,2.177954,Indoor,Headphone,Good,-
 S01_T03_316.wav,S01,M,Sunda,Keresahan,2.496126000000004,Indoor,Headphone,Acceptable,Minor microphone popping
 S01_T03_317.wav,S01,M,Sunda,Keresahan,3.777019999999993,Indoor,Headphone,Good,-
@@ -324,9 +324,9 @@ S01_T03_321.wav,S01,M,Sunda,Keresahan,2.82778200000007,Indoor,Headphone,Good,-
 S02_T01_000.wav,S02,F,Sunda,Rutinitas,4.065632999999999,Indoor,Headphone,Acceptable,Minor microphone popping
 S02_T01_001.wav,S02,F,Sunda,Rutinitas,2.5362339999999994,Indoor,Headphone,Good,-
 S02_T01_002.wav,S02,F,Sunda,Rutinitas,2.4417919999999995,Indoor,Headphone,Good,-
-S02_T01_003.wav,S02,F,Sunda,Rutinitas,1.9643890000000006,Indoor,Headphone,Good,-
+S02_T01_003.wav,S02,F,Sunda,Rutinitas,1.9643890000000008,Indoor,Headphone,Good,-
 S02_T01_004.wav,S02,F,Sunda,Rutinitas,3.0896930000000022,Indoor,Headphone,Good,-
-S02_T01_005.wav,S02,F,Sunda,Rutinitas,2.2258239999999994,Indoor,Headphone,Good,-
+S02_T01_005.wav,S02,F,Sunda,Rutinitas,2.225824,Indoor,Headphone,Good,-
 S02_T01_006.wav,S02,F,Sunda,Rutinitas,1.3108039999999974,Indoor,Headphone,Good,-
 S02_T01_007.wav,S02,F,Sunda,Rutinitas,3.0961,Indoor,Headphone,Good,-
 S02_T01_008.wav,S02,F,Sunda,Rutinitas,1.771962000000002,Indoor,Headphone,Good,-
@@ -334,12 +334,12 @@ S02_T01_009.wav,S02,F,Sunda,Rutinitas,1.928924000000002,Indoor,Headphone,Good,-
 S02_T01_010.wav,S02,F,Sunda,Rutinitas,2.509325000000004,Indoor,Headphone,Good,-
 S02_T01_011.wav,S02,F,Sunda,Rutinitas,2.164839999999998,Indoor,Headphone,Good,-
 S02_T01_012.wav,S02,F,Sunda,Rutinitas,0.9208670000000012,Indoor,Headphone,Good,-
-S02_T01_013.wav,S02,F,Sunda,Rutinitas,1.5970780000000033,Indoor,Headphone,Good,-
+S02_T01_013.wav,S02,F,Sunda,Rutinitas,1.597078000000003,Indoor,Headphone,Good,-
 S02_T01_014.wav,S02,F,Sunda,Rutinitas,3.389674999999997,Indoor,Headphone,Good,-
 S02_T01_015.wav,S02,F,Sunda,Rutinitas,2.5858769999999964,Indoor,Headphone,Good,-
 S02_T01_016.wav,S02,F,Sunda,Rutinitas,3.702262999999995,Indoor,Headphone,Good,-
 S02_T01_017.wav,S02,F,Sunda,Rutinitas,5.163133000000002,Indoor,Headphone,Good,-
-S02_T01_018.wav,S02,F,Sunda,Rutinitas,1.8650110000000026,Indoor,Headphone,Good,-
+S02_T01_018.wav,S02,F,Sunda,Rutinitas,1.8650110000000024,Indoor,Headphone,Good,-
 S02_T01_019.wav,S02,F,Sunda,Rutinitas,5.054684999999992,Indoor,Headphone,Good,-
 S02_T01_020.wav,S02,F,Sunda,Rutinitas,4.525198000000003,Indoor,Headphone,Good,-
 S02_T01_021.wav,S02,F,Sunda,Rutinitas,5.078067000000004,Indoor,Headphone,Good,-
@@ -809,7 +809,7 @@ S05_T01_009.wav,S05,M,Sunda,Rutinitas,3.1187029999999965,Indoor,Headphone,Good,N
 S05_T01_010.wav,S05,M,Sunda,Rutinitas,4.050705000000001,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_011.wav,S05,M,Sunda,Rutinitas,4.409627999999998,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_012.wav,S05,M,Sunda,Rutinitas,3.794332000000004,Indoor,Headphone,Good,Not a native speaker.
-S05_T01_013.wav,S05,M,Sunda,Rutinitas,3.5379580000000037,Indoor,Headphone,Good,Not a native speaker.
+S05_T01_013.wav,S05,M,Sunda,Rutinitas,3.537958000000004,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_014.wav,S05,M,Sunda,Rutinitas,3.230308999999991,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_015.wav,S05,M,Sunda,Rutinitas,4.819826000000006,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_016.wav,S05,M,Sunda,Rutinitas,1.8106690000000043,Indoor,Headphone,Good,Not a native speaker.
@@ -835,14 +835,14 @@ S05_T01_036.wav,S05,M,Sunda,Rutinitas,3.845606000000004,Indoor,Headphone,Good,No
 S05_T01_037.wav,S05,M,Sunda,Rutinitas,3.743055999999996,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_038.wav,S05,M,Sunda,Rutinitas,4.358353999999991,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_039.wav,S05,M,Sunda,Rutinitas,2.9739350000000115,Indoor,Headphone,Good,Not a native speaker.
-S05_T01_040.wav,S05,M,Sunda,Rutinitas,3.5379580000000037,Indoor,Headphone,Good,Not a native speaker.
+S05_T01_040.wav,S05,M,Sunda,Rutinitas,3.537958000000004,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_041.wav,S05,M,Sunda,Rutinitas,3.2815840000000094,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_042.wav,S05,M,Sunda,Rutinitas,2.922661000000005,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_043.wav,S05,M,Sunda,Rutinitas,2.9739350000000115,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_044.wav,S05,M,Sunda,Rutinitas,3.230309000000005,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_045.wav,S05,M,Sunda,Rutinitas,1.897165000000001,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_046.wav,S05,M,Sunda,Rutinitas,3.5892320000000097,Indoor,Headphone,Good,Not a native speaker.
-S05_T01_047.wav,S05,M,Sunda,Rutinitas,3.4866829999999998,Indoor,Headphone,Good,Not a native speaker.
+S05_T01_047.wav,S05,M,Sunda,Rutinitas,3.486683,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_048.wav,S05,M,Sunda,Rutinitas,1.4869679999999903,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_049.wav,S05,M,Sunda,Rutinitas,3.5379579999999464,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_050.wav,S05,M,Sunda,Rutinitas,3.5212300000000027,Indoor,Headphone,Good,Not a native speaker.
@@ -879,7 +879,7 @@ S05_T01_080.wav,S05,M,Sunda,Rutinitas,2.2795869999999923,Indoor,Headphone,Good,N
 S05_T01_081.wav,S05,M,Sunda,Rutinitas,1.897166000000027,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_082.wav,S05,M,Sunda,Rutinitas,1.9997149999999808,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_083.wav,S05,M,Sunda,Rutinitas,3.9481550000000425,Indoor,Headphone,Good,Not a native speaker.
-S05_T01_084.wav,S05,M,Sunda,Rutinitas,2.2560890000000318,Indoor,Headphone,Good,Not a native speaker.
+S05_T01_084.wav,S05,M,Sunda,Rutinitas,2.256089000000032,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_085.wav,S05,M,Sunda,Rutinitas,3.645264999999995,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_086.wav,S05,M,Sunda,Rutinitas,2.050990000000013,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_087.wav,S05,M,Sunda,Rutinitas,4.409627999999998,Indoor,Headphone,Good,Not a native speaker.
@@ -912,7 +912,7 @@ S05_T01_113.wav,S05,M,Sunda,Rutinitas,2.666287000000011,Indoor,Headphone,Good,No
 S05_T01_114.wav,S05,M,Sunda,Rutinitas,1.1793199999999615,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_115.wav,S05,M,Sunda,Rutinitas,2.9395419999999604,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_116.wav,S05,M,Sunda,Rutinitas,3.281582999999955,Indoor,Headphone,Good,Not a native speaker.
-S05_T01_117.wav,S05,M,Sunda,Rutinitas,1.8458910000000517,Indoor,Headphone,Good,Not a native speaker.
+S05_T01_117.wav,S05,M,Sunda,Rutinitas,1.845891000000052,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_118.wav,S05,M,Sunda,Rutinitas,2.5637369999999464,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_119.wav,S05,M,Sunda,Rutinitas,2.461186999999996,Indoor,Headphone,Good,Not a native speaker.
 S05_T01_120.wav,S05,M,Sunda,Rutinitas,3.0252100000000155,Indoor,Headphone,Good,Not a native speaker.
@@ -931,7 +931,7 @@ S05_T02_132.wav,S05,M,Sunda,Kenangan,3.589232000000038,Indoor,Headphone,Good,Not
 S05_T02_133.wav,S05,M,Sunda,Kenangan,3.2815830000000688,Indoor,Headphone,Good,Not a native speaker.
 S05_T02_134.wav,S05,M,Sunda,Kenangan,2.927743999999961,Indoor,Headphone,Good,Not a native speaker.
 S05_T02_135.wav,S05,M,Sunda,Kenangan,4.614728000000014,Indoor,Headphone,Good,Not a native speaker.
-S05_T02_136.wav,S05,M,Sunda,Kenangan,3.5379580000000037,Indoor,Headphone,Good,Not a native speaker.
+S05_T02_136.wav,S05,M,Sunda,Kenangan,3.537958000000004,Indoor,Headphone,Good,Not a native speaker.
 S05_T02_137.wav,S05,M,Sunda,Kenangan,3.23030899999992,Indoor,Headphone,Good,Not a native speaker.
 S05_T02_138.wav,S05,M,Sunda,Kenangan,3.4866819999999734,Indoor,Headphone,Good,Not a native speaker.
 S05_T02_139.wav,S05,M,Sunda,Kenangan,3.589232000000038,Indoor,Headphone,Good,Not a native speaker.
@@ -1048,16 +1048,16 @@ S05_T03_249.wav,S05,M,Sunda,Keresahan,5.640221999999994,Indoor,Headphone,Good,No
 S05_T03_250.wav,S05,M,Sunda,Keresahan,3.1277590000001965,Indoor,Headphone,Good,Not a native speaker.
 S05_T03_251.wav,S05,M,Sunda,Keresahan,3.923767999999882,Indoor,Headphone,Good,Not a native speaker.
 S05_T03_252.wav,S05,M,Sunda,Keresahan,3.3328579999999874,Indoor,Headphone,Good,Not a native speaker.
-S06_T01_000.wav,S06,F,Sunda,Rutinitas,2.9625909999999998,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_000.wav,S06,F,Sunda,Rutinitas,2.962591,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_001.wav,S06,F,Sunda,Rutinitas,0.61329,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_002.wav,S06,F,Sunda,Rutinitas,5.578364,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T01_003.wav,S06,F,Sunda,Rutinitas,1.6879340000000003,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_003.wav,S06,F,Sunda,Rutinitas,1.6879340000000005,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_004.wav,S06,F,Sunda,Rutinitas,2.1106250000000006,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_005.wav,S06,F,Sunda,Rutinitas,6.475372,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_006.wav,S06,F,Sunda,Rutinitas,1.7115170000000006,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_007.wav,S06,F,Sunda,Rutinitas,3.700578,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_008.wav,S06,F,Sunda,Rutinitas,5.874667000000002,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T01_009.wav,S06,F,Sunda,Rutinitas,7.5602599999999995,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_009.wav,S06,F,Sunda,Rutinitas,7.560259999999999,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_010.wav,S06,F,Sunda,Rutinitas,4.440693000000003,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_011.wav,S06,F,Sunda,Rutinitas,3.816219999999994,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_012.wav,S06,F,Sunda,Rutinitas,3.4461629999999985,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
@@ -1081,9 +1081,9 @@ S06_T01_029.wav,S06,F,Sunda,Rutinitas,2.266604000000001,Indoor,Headphone,Good,Na
 S06_T01_030.wav,S06,F,Sunda,Rutinitas,8.441941999999983,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_031.wav,S06,F,Sunda,Rutinitas,3.978121000000016,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_032.wav,S06,F,Sunda,Rutinitas,3.006719000000004,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T01_033.wav,S06,F,Sunda,Rutinitas,3.3999060000000156,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_033.wav,S06,F,Sunda,Rutinitas,3.399906000000016,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_034.wav,S06,F,Sunda,Rutinitas,2.0121890000000064,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T01_035.wav,S06,F,Sunda,Rutinitas,3.7005769999999814,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_035.wav,S06,F,Sunda,Rutinitas,3.700576999999981,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_036.wav,S06,F,Sunda,Rutinitas,2.8679480000000126,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_037.wav,S06,F,Sunda,Rutinitas,7.192996999999991,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_038.wav,S06,F,Sunda,Rutinitas,4.186277999999987,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
@@ -1094,11 +1094,11 @@ S06_T01_042.wav,S06,F,Sunda,Rutinitas,2.312860999999998,Indoor,Headphone,Good,Na
 S06_T01_043.wav,S06,F,Sunda,Rutinitas,6.383496000000008,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_044.wav,S06,F,Sunda,Rutinitas,5.573993999999999,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_045.wav,S06,F,Sunda,Rutinitas,4.533206999999976,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T01_046.wav,S06,F,Sunda,Rutinitas,1.5264880000000005,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_046.wav,S06,F,Sunda,Rutinitas,1.5264880000000003,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_047.wav,S06,F,Sunda,Rutinitas,3.2380059999999844,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_048.wav,S06,F,Sunda,Rutinitas,4.64885000000001,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T01_049.wav,S06,F,Sunda,Rutinitas,1.5264880000000005,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T01_050.wav,S06,F,Sunda,Rutinitas,2.2434749999999894,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_049.wav,S06,F,Sunda,Rutinitas,1.5264880000000003,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T01_050.wav,S06,F,Sunda,Rutinitas,2.243474999999989,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_051.wav,S06,F,Sunda,Rutinitas,2.3822469999999782,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_052.wav,S06,F,Sunda,Rutinitas,4.163149000000004,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T01_053.wav,S06,F,Sunda,Rutinitas,5.527737999999999,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
@@ -1129,12 +1129,12 @@ S06_T02_077.wav,S06,F,Sunda,Kenangan,3.631191000000001,Indoor,Headphone,Good,Nat
 S06_T02_078.wav,S06,F,Sunda,Kenangan,4.142259000000024,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_079.wav,S06,F,Sunda,Kenangan,4.140021000000047,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_080.wav,S06,F,Sunda,Kenangan,1.688387999999975,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_081.wav,S06,F,Sunda,Kenangan,1.8033179999999902,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_081.wav,S06,F,Sunda,Kenangan,1.8033179999999904,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_082.wav,S06,F,Sunda,Kenangan,2.613533000000018,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_083.wav,S06,F,Sunda,Kenangan,1.3877160000000117,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_083.wav,S06,F,Sunda,Kenangan,1.3877160000000115,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_084.wav,S06,F,Sunda,Kenangan,5.691875999999979,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_085.wav,S06,F,Sunda,Kenangan,2.752303999999981,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_086.wav,S06,F,Sunda,Kenangan,3.8856059999999957,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_086.wav,S06,F,Sunda,Kenangan,3.885605999999996,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_087.wav,S06,F,Sunda,Kenangan,2.497889999999984,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_088.wav,S06,F,Sunda,Kenangan,2.9604610000000093,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_089.wav,S06,F,Sunda,Kenangan,3.353648000000021,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
@@ -1155,7 +1155,7 @@ S06_T02_104.wav,S06,F,Sunda,Kenangan,3.7699629999999615,Indoor,Headphone,Good,Na
 S06_T02_105.wav,S06,F,Sunda,Kenangan,2.5210179999999696,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_106.wav,S06,F,Sunda,Kenangan,1.2952020000000175,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_107.wav,S06,F,Sunda,Kenangan,3.238004999999987,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_108.wav,S06,F,Sunda,Kenangan,3.9549920000000043,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_108.wav,S06,F,Sunda,Kenangan,3.954992000000004,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_109.wav,S06,F,Sunda,Kenangan,2.590403999999978,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_110.wav,S06,F,Sunda,Kenangan,2.497889999999984,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_111.wav,S06,F,Sunda,Kenangan,3.330519000000038,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
@@ -1164,28 +1164,28 @@ S06_T02_113.wav,S06,F,Sunda,Kenangan,3.4230340000000297,Indoor,Headphone,Good,Na
 S06_T02_114.wav,S06,F,Sunda,Kenangan,2.960462000000007,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_115.wav,S06,F,Sunda,Kenangan,4.255664000000024,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_116.wav,S06,F,Sunda,Kenangan,4.972650999999928,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_117.wav,S06,F,Sunda,Kenangan,1.8502880000000914,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_117.wav,S06,F,Sunda,Kenangan,1.8502880000000916,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_118.wav,S06,F,Sunda,Kenangan,1.5033589999999322,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_119.wav,S06,F,Sunda,Kenangan,2.68291899999997,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_120.wav,S06,F,Sunda,Kenangan,4.6719790000000785,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_120.wav,S06,F,Sunda,Kenangan,4.671979000000079,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_121.wav,S06,F,Sunda,Kenangan,4.579464999999914,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_122.wav,S06,F,Sunda,Kenangan,4.502894000000083,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_123.wav,S06,F,Sunda,Kenangan,6.059696000000031,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_124.wav,S06,F,Sunda,Kenangan,8.511327000000051,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_125.wav,S06,F,Sunda,Kenangan,6.730424999999968,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_126.wav,S06,F,Sunda,Kenangan,6.5453959999999825,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_126.wav,S06,F,Sunda,Kenangan,6.545395999999983,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_127.wav,S06,F,Sunda,Kenangan,3.816220000000044,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_128.wav,S06,F,Sunda,Kenangan,4.093764000000078,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_129.wav,S06,F,Sunda,Kenangan,4.140020999999933,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_130.wav,S06,F,Sunda,Kenangan,3.492419000000041,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_131.wav,S06,F,Sunda,Kenangan,2.0252060000000256,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_132.wav,S06,F,Sunda,Kenangan,2.474760999999944,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_133.wav,S06,F,Sunda,Kenangan,1.9428030000000263,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_133.wav,S06,F,Sunda,Kenangan,1.9428030000000265,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_134.wav,S06,F,Sunda,Kenangan,2.0939899999999625,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_135.wav,S06,F,Sunda,Kenangan,2.891075999999998,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_136.wav,S06,F,Sunda,Kenangan,2.8216899999999896,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_137.wav,S06,F,Sunda,Kenangan,2.289732000000072,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T02_138.wav,S06,F,Sunda,Kenangan,1.3183309999999437,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T02_138.wav,S06,F,Sunda,Kenangan,1.3183309999999435,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_139.wav,S06,F,Sunda,Kenangan,4.209406000000058,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_140.wav,S06,F,Sunda,Kenangan,3.5849340000000893,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T02_141.wav,S06,F,Sunda,Kenangan,3.538677000000007,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
@@ -1200,14 +1200,14 @@ S06_T03_149.wav,S06,F,Sunda,Keresahan,2.5210179999999127,Indoor,Headphone,Good,N
 S06_T03_150.wav,S06,F,Sunda,Keresahan,5.967180999999982,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_151.wav,S06,F,Sunda,Keresahan,3.954992000000061,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_152.wav,S06,F,Sunda,Keresahan,2.891075999999998,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T03_153.wav,S06,F,Sunda,Keresahan,1.9428030000000263,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T03_153.wav,S06,F,Sunda,Keresahan,1.9428030000000265,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_154.wav,S06,F,Sunda,Keresahan,2.9835900000000493,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_155.wav,S06,F,Sunda,Keresahan,5.365836999999942,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_156.wav,S06,F,Sunda,Keresahan,3.469291999999996,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_157.wav,S06,F,Sunda,Keresahan,5.712765999999988,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_158.wav,S06,F,Sunda,Keresahan,3.076105000000098,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_159.wav,S06,F,Sunda,Keresahan,2.1972180000000208,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T03_160.wav,S06,F,Sunda,Keresahan,2.5672759999999926,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T03_160.wav,S06,F,Sunda,Keresahan,2.567275999999993,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_161.wav,S06,F,Sunda,Keresahan,4.486949999999979,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_162.wav,S06,F,Sunda,Keresahan,3.3073909999999387,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_163.wav,S06,F,Sunda,Keresahan,3.446162999999956,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
@@ -1217,18 +1217,242 @@ S06_T03_166.wav,S06,F,Sunda,Keresahan,3.3305199999999786,Indoor,Headphone,Good,N
 S06_T03_167.wav,S06,F,Sunda,Keresahan,3.3073910000000524,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_168.wav,S06,F,Sunda,Keresahan,3.746835000000033,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_169.wav,S06,F,Sunda,Keresahan,1.526487999999972,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T03_170.wav,S06,F,Sunda,Keresahan,3.6543199999999842,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T03_170.wav,S06,F,Sunda,Keresahan,3.654319999999984,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_171.wav,S06,F,Sunda,Keresahan,11.425531999999976,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_172.wav,S06,F,Sunda,Keresahan,2.7291759999999385,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_173.wav,S06,F,Sunda,Keresahan,5.042036000000053,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T03_174.wav,S06,F,Sunda,Keresahan,2.4516330000000153,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T03_174.wav,S06,F,Sunda,Keresahan,2.4516330000000157,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_175.wav,S06,F,Sunda,Keresahan,4.067170999999917,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_176.wav,S06,F,Sunda,Keresahan,4.995779000000084,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_177.wav,S06,F,Sunda,Keresahan,5.065164999999979,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_178.wav,S06,F,Sunda,Keresahan,2.914203999999927,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T03_179.wav,S06,F,Sunda,Keresahan,2.6366610000000037,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T03_179.wav,S06,F,Sunda,Keresahan,2.636661000000004,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_180.wav,S06,F,Sunda,Keresahan,1.9659319999999525,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T03_181.wav,S06,F,Sunda,Keresahan,3.6080630000000156,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
-S06_T03_182.wav,S06,F,Sunda,Keresahan,2.6597900000000436,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T03_181.wav,S06,F,Sunda,Keresahan,3.608063000000016,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S06_T03_182.wav,S06,F,Sunda,Keresahan,2.659790000000044,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_183.wav,S06,F,Sunda,Keresahan,2.3923180000000457,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
 S06_T03_184.wav,S06,F,Sunda,Keresahan,0.8095009999999547,Indoor,Headphone,Good,Native speaker who hasn't spoken Sundanese for quite some time
+S07_T01_000.wav,S07,M,Sunda,Rutinitas,2.369937,Indoor,Headphone,to be examed,to be filled
+S07_T01_001.wav,S07,M,Sunda,Rutinitas,4.14,Indoor,Headphone,to be examed,to be filled
+S07_T01_002.wav,S07,M,Sunda,Rutinitas,2.0229370000000007,Indoor,Headphone,to be examed,to be filled
+S07_T01_003.wav,S07,M,Sunda,Rutinitas,2.248562999999999,Indoor,Headphone,to be examed,to be filled
+S07_T01_004.wav,S07,M,Sunda,Rutinitas,2.8814290000000007,Indoor,Headphone,to be examed,to be filled
+S07_T01_005.wav,S07,M,Sunda,Rutinitas,3.758000000000001,Indoor,Headphone,to be examed,to be filled
+S07_T01_006.wav,S07,M,Sunda,Rutinitas,3.501999999999999,Indoor,Headphone,to be examed,to be filled
+S07_T01_007.wav,S07,M,Sunda,Rutinitas,3.255486000000001,Indoor,Headphone,to be examed,to be filled
+S07_T01_008.wav,S07,M,Sunda,Rutinitas,3.5918499999999973,Indoor,Headphone,to be examed,to be filled
+S07_T01_009.wav,S07,M,Sunda,Rutinitas,3.206508999999997,Indoor,Headphone,to be examed,to be filled
+S07_T01_010.wav,S07,M,Sunda,Rutinitas,2.9225610000000017,Indoor,Headphone,to be examed,to be filled
+S07_T01_011.wav,S07,M,Sunda,Rutinitas,3.602730000000001,Indoor,Headphone,to be examed,to be filled
+S07_T01_012.wav,S07,M,Sunda,Rutinitas,2.654443999999998,Indoor,Headphone,to be examed,to be filled
+S07_T01_013.wav,S07,M,Sunda,Rutinitas,5.555750000000003,Indoor,Headphone,to be examed,to be filled
+S07_T01_014.wav,S07,M,Sunda,Rutinitas,1.6253809999999973,Indoor,Headphone,to be examed,to be filled
+S07_T01_015.wav,S07,M,Sunda,Rutinitas,1.6286020000000008,Indoor,Headphone,to be examed,to be filled
+S07_T01_016.wav,S07,M,Sunda,Rutinitas,2.319711000000005,Indoor,Headphone,to be examed,to be filled
+S07_T01_017.wav,S07,M,Sunda,Rutinitas,3.993423,Indoor,Headphone,to be examed,to be filled
+S07_T01_018.wav,S07,M,Sunda,Rutinitas,4.972907999999997,Indoor,Headphone,to be examed,to be filled
+S07_T01_019.wav,S07,M,Sunda,Rutinitas,3.8818740000000105,Indoor,Headphone,to be examed,to be filled
+S07_T01_020.wav,S07,M,Sunda,Rutinitas,2.186343000000008,Indoor,Headphone,to be examed,to be filled
+S07_T01_021.wav,S07,M,Sunda,Rutinitas,3.8679759999999987,Indoor,Headphone,to be examed,to be filled
+S07_T01_022.wav,S07,M,Sunda,Rutinitas,3.9489090000000004,Indoor,Headphone,to be examed,to be filled
+S07_T01_023.wav,S07,M,Sunda,Rutinitas,1.317181000000005,Indoor,Headphone,to be examed,to be filled
+S07_T01_024.wav,S07,M,Sunda,Rutinitas,4.012384999999995,Indoor,Headphone,to be examed,to be filled
+S07_T01_025.wav,S07,M,Sunda,Rutinitas,2.464915000000005,Indoor,Headphone,to be examed,to be filled
+S07_T01_026.wav,S07,M,Sunda,Rutinitas,2.6544209999999993,Indoor,Headphone,to be examed,to be filled
+S07_T01_027.wav,S07,M,Sunda,Rutinitas,2.178629000000001,Indoor,Headphone,to be examed,to be filled
+S07_T01_028.wav,S07,M,Sunda,Rutinitas,4.908117000000004,Indoor,Headphone,to be examed,to be filled
+S07_T01_029.wav,S07,M,Sunda,Rutinitas,2.3648199999999946,Indoor,Headphone,to be examed,to be filled
+S07_T01_030.wav,S07,M,Sunda,Rutinitas,3.301825000000008,Indoor,Headphone,to be examed,to be filled
+S07_T01_031.wav,S07,M,Sunda,Rutinitas,3.4803019999999947,Indoor,Headphone,to be examed,to be filled
+S07_T01_032.wav,S07,M,Sunda,Rutinitas,2.9345849999999984,Indoor,Headphone,to be examed,to be filled
+S07_T01_033.wav,S07,M,Sunda,Rutinitas,1.7698129999999992,Indoor,Headphone,to be examed,to be filled
+S07_T01_034.wav,S07,M,Sunda,Rutinitas,1.8953750000000014,Indoor,Headphone,to be examed,to be filled
+S07_T01_035.wav,S07,M,Sunda,Rutinitas,3.614062000000004,Indoor,Headphone,to be examed,to be filled
+S07_T01_036.wav,S07,M,Sunda,Rutinitas,3.2106080000000077,Indoor,Headphone,to be examed,to be filled
+S07_T01_037.wav,S07,M,Sunda,Rutinitas,2.8200000000000074,Indoor,Headphone,to be examed,to be filled
+S07_T01_038.wav,S07,M,Sunda,Rutinitas,5.053311999999977,Indoor,Headphone,to be examed,to be filled
+S07_T01_039.wav,S07,M,Sunda,Rutinitas,4.689938000000012,Indoor,Headphone,to be examed,to be filled
+S07_T01_040.wav,S07,M,Sunda,Rutinitas,2.1863429999999937,Indoor,Headphone,to be examed,to be filled
+S07_T01_041.wav,S07,M,Sunda,Rutinitas,3.862431000000015,Indoor,Headphone,to be examed,to be filled
+S07_T01_042.wav,S07,M,Sunda,Rutinitas,3.273807000000005,Indoor,Headphone,to be examed,to be filled
+S07_T01_043.wav,S07,M,Sunda,Rutinitas,2.592634000000004,Indoor,Headphone,to be examed,to be filled
+S07_T01_044.wav,S07,M,Sunda,Rutinitas,3.2597470000000044,Indoor,Headphone,to be examed,to be filled
+S07_T01_045.wav,S07,M,Sunda,Rutinitas,5.727004000000022,Indoor,Headphone,to be examed,to be filled
+S07_T01_046.wav,S07,M,Sunda,Rutinitas,4.341187999999988,Indoor,Headphone,to be examed,to be filled
+S07_T01_047.wav,S07,M,Sunda,Rutinitas,6.627766000000008,Indoor,Headphone,to be examed,to be filled
+S07_T01_048.wav,S07,M,Sunda,Rutinitas,2.626936999999998,Indoor,Headphone,to be examed,to be filled
+S07_T01_049.wav,S07,M,Sunda,Rutinitas,3.5559220000000096,Indoor,Headphone,to be examed,to be filled
+S07_T01_050.wav,S07,M,Sunda,Rutinitas,3.4165450000000135,Indoor,Headphone,to be examed,to be filled
+S07_T01_051.wav,S07,M,Sunda,Rutinitas,7.296187000000003,Indoor,Headphone,to be examed,to be filled
+S07_T01_052.wav,S07,M,Sunda,Rutinitas,2.0534199999999885,Indoor,Headphone,to be examed,to be filled
+S07_T01_053.wav,S07,M,Sunda,Rutinitas,3.355589000000009,Indoor,Headphone,to be examed,to be filled
+S07_T01_054.wav,S07,M,Sunda,Rutinitas,3.055088000000012,Indoor,Headphone,to be examed,to be filled
+S07_T01_055.wav,S07,M,Sunda,Rutinitas,4.760209000000003,Indoor,Headphone,to be examed,to be filled
+S07_T01_056.wav,S07,M,Sunda,Rutinitas,1.8280440000000056,Indoor,Headphone,to be examed,to be filled
+S07_T01_057.wav,S07,M,Sunda,Rutinitas,1.6672209999999836,Indoor,Headphone,to be examed,to be filled
+S07_T01_058.wav,S07,M,Sunda,Rutinitas,4.385529999999989,Indoor,Headphone,to be examed,to be filled
+S07_T01_059.wav,S07,M,Sunda,Rutinitas,5.082055999999994,Indoor,Headphone,to be examed,to be filled
+S07_T01_060.wav,S07,M,Sunda,Rutinitas,3.657114000000007,Indoor,Headphone,to be examed,to be filled
+S07_T01_061.wav,S07,M,Sunda,Rutinitas,3.048361,Indoor,Headphone,to be examed,to be filled
+S07_T01_062.wav,S07,M,Sunda,Rutinitas,3.3806299999999965,Indoor,Headphone,to be examed,to be filled
+S07_T01_063.wav,S07,M,Sunda,Rutinitas,1.9218719999999792,Indoor,Headphone,to be examed,to be filled
+S07_T01_064.wav,S07,M,Sunda,Rutinitas,3.6795000000000186,Indoor,Headphone,to be examed,to be filled
+S07_T01_065.wav,S07,M,Sunda,Rutinitas,4.257255999999984,Indoor,Headphone,to be examed,to be filled
+S07_T01_066.wav,S07,M,Sunda,Rutinitas,2.0784619999999734,Indoor,Headphone,to be examed,to be filled
+S07_T01_067.wav,S07,M,Sunda,Rutinitas,2.0283780000000036,Indoor,Headphone,to be examed,to be filled
+S07_T01_068.wav,S07,M,Sunda,Rutinitas,1.1769599999999798,Indoor,Headphone,to be examed,to be filled
+S07_T01_069.wav,S07,M,Sunda,Rutinitas,2.6721640000000093,Indoor,Headphone,to be examed,to be filled
+S07_T01_070.wav,S07,M,Sunda,Rutinitas,2.287715999999989,Indoor,Headphone,to be examed,to be filled
+S07_T01_071.wav,S07,M,Sunda,Rutinitas,1.9699999999999989,Indoor,Headphone,to be examed,to be filled
+S07_T01_072.wav,S07,M,Sunda,Rutinitas,2.7315740000000233,Indoor,Headphone,to be examed,to be filled
+S07_T01_073.wav,S07,M,Sunda,Rutinitas,1.2158640000000105,Indoor,Headphone,to be examed,to be filled
+S07_T01_074.wav,S07,M,Sunda,Rutinitas,1.4287499999999795,Indoor,Headphone,to be examed,to be filled
+S07_T01_075.wav,S07,M,Sunda,Rutinitas,2.776450999999952,Indoor,Headphone,to be examed,to be filled
+S07_T01_076.wav,S07,M,Sunda,Rutinitas,2.0184019999999805,Indoor,Headphone,to be examed,to be filled
+S07_T01_077.wav,S07,M,Sunda,Rutinitas,2.7716409999999883,Indoor,Headphone,to be examed,to be filled
+S07_T01_078.wav,S07,M,Sunda,Rutinitas,3.0604060000000004,Indoor,Headphone,to be examed,to be filled
+S07_T01_079.wav,S07,M,Sunda,Rutinitas,2.543297999999993,Indoor,Headphone,to be examed,to be filled
+S07_T01_080.wav,S07,M,Sunda,Rutinitas,3.4844889999999964,Indoor,Headphone,to be examed,to be filled
+S07_T01_081.wav,S07,M,Sunda,Rutinitas,2.753861000000029,Indoor,Headphone,to be examed,to be filled
+S07_T01_082.wav,S07,M,Sunda,Rutinitas,4.313490999999999,Indoor,Headphone,to be examed,to be filled
+S07_T02_083.wav,S07,M,Sunda,Kenangan,3.5104479999999967,Indoor,Headphone,to be examed,to be filled
+S07_T02_084.wav,S07,M,Sunda,Kenangan,3.441614999999956,Indoor,Headphone,to be examed,to be filled
+S07_T02_085.wav,S07,M,Sunda,Kenangan,4.015218000000004,Indoor,Headphone,to be examed,to be filled
+S07_T02_086.wav,S07,M,Sunda,Kenangan,2.4342639999999847,Indoor,Headphone,to be examed,to be filled
+S07_T02_087.wav,S07,M,Sunda,Kenangan,3.0974539999999706,Indoor,Headphone,to be examed,to be filled
+S07_T02_088.wav,S07,M,Sunda,Kenangan,3.191050999999959,Indoor,Headphone,to be examed,to be filled
+S07_T02_089.wav,S07,M,Sunda,Kenangan,3.7216229999999655,Indoor,Headphone,to be examed,to be filled
+S07_T02_090.wav,S07,M,Sunda,Kenangan,1.7749600000000214,Indoor,Headphone,to be examed,to be filled
+S07_T02_091.wav,S07,M,Sunda,Kenangan,4.082752999999968,Indoor,Headphone,to be examed,to be filled
+S07_T02_092.wav,S07,M,Sunda,Kenangan,2.428250999999989,Indoor,Headphone,to be examed,to be filled
+S07_T02_093.wav,S07,M,Sunda,Kenangan,4.194626000000028,Indoor,Headphone,to be examed,to be filled
+S07_T02_094.wav,S07,M,Sunda,Kenangan,1.6634469999999624,Indoor,Headphone,to be examed,to be filled
+S07_T02_095.wav,S07,M,Sunda,Kenangan,2.556714999999997,Indoor,Headphone,to be examed,to be filled
+S07_T02_096.wav,S07,M,Sunda,Kenangan,3.750760000000014,Indoor,Headphone,to be examed,to be filled
+S07_T02_097.wav,S07,M,Sunda,Kenangan,3.1274530000000027,Indoor,Headphone,to be examed,to be filled
+S07_T02_098.wav,S07,M,Sunda,Kenangan,4.047293000000025,Indoor,Headphone,to be examed,to be filled
+S07_T02_099.wav,S07,M,Sunda,Kenangan,2.595990000000029,Indoor,Headphone,to be examed,to be filled
+S07_T02_100.wav,S07,M,Sunda,Kenangan,3.598966999999959,Indoor,Headphone,to be examed,to be filled
+S07_T02_101.wav,S07,M,Sunda,Kenangan,2.659513000000004,Indoor,Headphone,to be examed,to be filled
+S07_T02_102.wav,S07,M,Sunda,Kenangan,2.890775000000019,Indoor,Headphone,to be examed,to be filled
+S07_T02_103.wav,S07,M,Sunda,Kenangan,1.6621959999999945,Indoor,Headphone,to be examed,to be filled
+S07_T02_104.wav,S07,M,Sunda,Kenangan,1.6911029999999982,Indoor,Headphone,to be examed,to be filled
+S07_T02_105.wav,S07,M,Sunda,Kenangan,3.154182999999989,Indoor,Headphone,to be examed,to be filled
+S07_T02_106.wav,S07,M,Sunda,Kenangan,1.7922810000000027,Indoor,Headphone,to be examed,to be filled
+S07_T02_107.wav,S07,M,Sunda,Kenangan,1.7200109999999995,Indoor,Headphone,to be examed,to be filled
+S07_T02_108.wav,S07,M,Sunda,Kenangan,1.8934100000000171,Indoor,Headphone,to be examed,to be filled
+S07_T02_109.wav,S07,M,Sunda,Kenangan,1.6477419999999938,Indoor,Headphone,to be examed,to be filled
+S07_T02_110.wav,S07,M,Sunda,Kenangan,4.370103000000029,Indoor,Headphone,to be examed,to be filled
+S07_T02_111.wav,S07,M,Sunda,Kenangan,1.777827000000002,Indoor,Headphone,to be examed,to be filled
+S07_T02_112.wav,S07,M,Sunda,Kenangan,4.283117000000004,Indoor,Headphone,to be examed,to be filled
+S07_T02_113.wav,S07,M,Sunda,Kenangan,3.407024999999976,Indoor,Headphone,to be examed,to be filled
+S07_T02_114.wav,S07,M,Sunda,Kenangan,3.893743000000029,Indoor,Headphone,to be examed,to be filled
+S07_T02_115.wav,S07,M,Sunda,Kenangan,1.8170799999999758,Indoor,Headphone,to be examed,to be filled
+S07_T02_116.wav,S07,M,Sunda,Kenangan,2.433589999999981,Indoor,Headphone,to be examed,to be filled
+S07_T02_117.wav,S07,M,Sunda,Kenangan,3.374576999999988,Indoor,Headphone,to be examed,to be filled
+S07_T02_118.wav,S07,M,Sunda,Kenangan,1.7521839999999997,Indoor,Headphone,to be examed,to be filled
+S07_T02_119.wav,S07,M,Sunda,Kenangan,2.303798000000029,Indoor,Headphone,to be examed,to be filled
+S07_T02_120.wav,S07,M,Sunda,Kenangan,3.921401000000003,Indoor,Headphone,to be examed,to be filled
+S07_T02_121.wav,S07,M,Sunda,Kenangan,2.5367950000000405,Indoor,Headphone,to be examed,to be filled
+S07_T02_122.wav,S07,M,Sunda,Kenangan,2.0766629999999964,Indoor,Headphone,to be examed,to be filled
+S07_T02_123.wav,S07,M,Sunda,Kenangan,3.050098999999989,Indoor,Headphone,to be examed,to be filled
+S07_T02_124.wav,S07,M,Sunda,Kenangan,3.991086999999993,Indoor,Headphone,to be examed,to be filled
+S07_T02_125.wav,S07,M,Sunda,Kenangan,3.6990559999999846,Indoor,Headphone,to be examed,to be filled
+S07_T02_126.wav,S07,M,Sunda,Kenangan,2.628276000000028,Indoor,Headphone,to be examed,to be filled
+S07_T02_127.wav,S07,M,Sunda,Kenangan,3.1149940000000242,Indoor,Headphone,to be examed,to be filled
+S07_T02_128.wav,S07,M,Sunda,Kenangan,4.704940000000022,Indoor,Headphone,to be examed,to be filled
+S07_T02_129.wav,S07,M,Sunda,Kenangan,3.3507769999999937,Indoor,Headphone,to be examed,to be filled
+S07_T02_130.wav,S07,M,Sunda,Kenangan,6.544601,Indoor,Headphone,to be examed,to be filled
+S07_T02_131.wav,S07,M,Sunda,Kenangan,2.872509999999977,Indoor,Headphone,to be examed,to be filled
+S07_T02_132.wav,S07,M,Sunda,Kenangan,2.5009070000000406,Indoor,Headphone,to be examed,to be filled
+S07_T02_133.wav,S07,M,Sunda,Kenangan,2.340299000000016,Indoor,Headphone,to be examed,to be filled
+S07_T02_134.wav,S07,M,Sunda,Kenangan,2.868013000000019,Indoor,Headphone,to be examed,to be filled
+S07_T02_135.wav,S07,M,Sunda,Kenangan,2.523850999999979,Indoor,Headphone,to be examed,to be filled
+S07_T02_136.wav,S07,M,Sunda,Kenangan,6.651593999999989,Indoor,Headphone,to be examed,to be filled
+S07_T02_137.wav,S07,M,Sunda,Kenangan,2.920308000000034,Indoor,Headphone,to be examed,to be filled
+S07_T02_138.wav,S07,M,Sunda,Kenangan,3.218008999999938,Indoor,Headphone,to be examed,to be filled
+S07_T02_139.wav,S07,M,Sunda,Kenangan,1.9929839999999786,Indoor,Headphone,to be examed,to be filled
+S07_T02_140.wav,S07,M,Sunda,Kenangan,1.2982670000000098,Indoor,Headphone,to be examed,to be filled
+S07_T02_141.wav,S07,M,Sunda,Kenangan,0.9709410000000389,Indoor,Headphone,to be examed,to be filled
+S07_T02_142.wav,S07,M,Sunda,Kenangan,2.032049000000029,Indoor,Headphone,to be examed,to be filled
+S07_T02_143.wav,S07,M,Sunda,Kenangan,3.8847729999999956,Indoor,Headphone,to be examed,to be filled
+S07_T02_144.wav,S07,M,Sunda,Kenangan,5.052780999999982,Indoor,Headphone,to be examed,to be filled
+S07_T02_145.wav,S07,M,Sunda,Kenangan,5.065492000000063,Indoor,Headphone,to be examed,to be filled
+S07_T02_146.wav,S07,M,Sunda,Kenangan,2.861075000000028,Indoor,Headphone,to be examed,to be filled
+S07_T02_147.wav,S07,M,Sunda,Kenangan,1.5330659999999625,Indoor,Headphone,to be examed,to be filled
+S07_T02_148.wav,S07,M,Sunda,Kenangan,3.4953890000000456,Indoor,Headphone,to be examed,to be filled
+S07_T02_149.wav,S07,M,Sunda,Kenangan,1.3731179999999767,Indoor,Headphone,to be examed,to be filled
+S07_T02_150.wav,S07,M,Sunda,Kenangan,3.4451589999999896,Indoor,Headphone,to be examed,to be filled
+S07_T02_151.wav,S07,M,Sunda,Kenangan,1.6669389999999566,Indoor,Headphone,to be examed,to be filled
+S07_T02_152.wav,S07,M,Sunda,Kenangan,3.340408000000025,Indoor,Headphone,to be examed,to be filled
+S07_T02_153.wav,S07,M,Sunda,Kenangan,1.1017519999999195,Indoor,Headphone,to be examed,to be filled
+S07_T02_154.wav,S07,M,Sunda,Kenangan,1.8542790000000196,Indoor,Headphone,to be examed,to be filled
+S07_T02_155.wav,S07,M,Sunda,Kenangan,1.3907100000000128,Indoor,Headphone,to be examed,to be filled
+S07_T02_156.wav,S07,M,Sunda,Kenangan,3.939330000000041,Indoor,Headphone,to be examed,to be filled
+S07_T02_157.wav,S07,M,Sunda,Kenangan,2.9101879999999483,Indoor,Headphone,to be examed,to be filled
+S07_T02_158.wav,S07,M,Sunda,Kenangan,5.047761000000037,Indoor,Headphone,to be examed,to be filled
+S07_T02_159.wav,S07,M,Sunda,Kenangan,4.9236419999999725,Indoor,Headphone,to be examed,to be filled
+S07_T02_160.wav,S07,M,Sunda,Kenangan,1.467971000000034,Indoor,Headphone,to be examed,to be filled
+S07_T02_161.wav,S07,M,Sunda,Kenangan,1.216397000000029,Indoor,Headphone,to be examed,to be filled
+S07_T02_162.wav,S07,M,Sunda,Kenangan,2.4723719999999503,Indoor,Headphone,to be examed,to be filled
+S07_T02_163.wav,S07,M,Sunda,Kenangan,6.95470899999998,Indoor,Headphone,to be examed,to be filled
+S07_T03_164.wav,S07,M,Sunda,Keresahan,3.164393000000018,Indoor,Headphone,to be examed,to be filled
+S07_T03_165.wav,S07,M,Sunda,Keresahan,8.166875000000005,Indoor,Headphone,to be examed,to be filled
+S07_T03_166.wav,S07,M,Sunda,Keresahan,3.545209,Indoor,Headphone,to be examed,to be filled
+S07_T03_167.wav,S07,M,Sunda,Keresahan,6.95470899999998,Indoor,Headphone,to be examed,to be filled
+S07_T03_168.wav,S07,M,Sunda,Keresahan,5.391287000000034,Indoor,Headphone,to be examed,to be filled
+S07_T03_169.wav,S07,M,Sunda,Keresahan,6.5270080000000235,Indoor,Headphone,to be examed,to be filled
+S07_T03_170.wav,S07,M,Sunda,Keresahan,1.7658439999999018,Indoor,Headphone,to be examed,to be filled
+S07_T03_171.wav,S07,M,Sunda,Keresahan,1.2082080000000133,Indoor,Headphone,to be examed,to be filled
+S07_T03_172.wav,S07,M,Sunda,Keresahan,3.996381999999926,Indoor,Headphone,to be examed,to be filled
+S07_T03_173.wav,S07,M,Sunda,Keresahan,4.523037000000045,Indoor,Headphone,to be examed,to be filled
+S07_T03_174.wav,S07,M,Sunda,Keresahan,2.888366999999903,Indoor,Headphone,to be examed,to be filled
+S07_T03_175.wav,S07,M,Sunda,Keresahan,5.807080000000042,Indoor,Headphone,to be examed,to be filled
+S07_T03_176.wav,S07,M,Sunda,Keresahan,2.9807759999999917,Indoor,Headphone,to be examed,to be filled
+S07_T03_177.wav,S07,M,Sunda,Keresahan,2.897976999999969,Indoor,Headphone,to be examed,to be filled
+S07_T03_178.wav,S07,M,Sunda,Keresahan,5.351595999999972,Indoor,Headphone,to be examed,to be filled
+S07_T03_179.wav,S07,M,Sunda,Keresahan,2.649579000000017,Indoor,Headphone,to be examed,to be filled
+S07_T03_180.wav,S07,M,Sunda,Keresahan,4.182493999999906,Indoor,Headphone,to be examed,to be filled
+S07_T03_181.wav,S07,M,Sunda,Keresahan,3.5049540000001116,Indoor,Headphone,to be examed,to be filled
+S07_T03_182.wav,S07,M,Sunda,Keresahan,1.6976630000000341,Indoor,Headphone,to be examed,to be filled
+S07_T03_183.wav,S07,M,Sunda,Keresahan,1.4428470000000289,Indoor,Headphone,to be examed,to be filled
+S07_T03_184.wav,S07,M,Sunda,Keresahan,4.512626999999952,Indoor,Headphone,to be examed,to be filled
+S07_T03_185.wav,S07,M,Sunda,Keresahan,2.8039629999999534,Indoor,Headphone,to be examed,to be filled
+S07_T03_186.wav,S07,M,Sunda,Keresahan,5.975557999999978,Indoor,Headphone,to be examed,to be filled
+S07_T03_187.wav,S07,M,Sunda,Keresahan,2.8039629999999534,Indoor,Headphone,to be examed,to be filled
+S07_T03_188.wav,S07,M,Sunda,Keresahan,4.140225999999984,Indoor,Headphone,to be examed,to be filled
+S07_T03_189.wav,S07,M,Sunda,Keresahan,3.7039270000000215,Indoor,Headphone,to be examed,to be filled
+S07_T03_190.wav,S07,M,Sunda,Keresahan,1.6648529999999937,Indoor,Headphone,to be examed,to be filled
+S07_T03_191.wav,S07,M,Sunda,Keresahan,4.200028999999972,Indoor,Headphone,to be examed,to be filled
+S07_T03_192.wav,S07,M,Sunda,Keresahan,1.3800749999999198,Indoor,Headphone,to be examed,to be filled
+S07_T03_193.wav,S07,M,Sunda,Keresahan,4.367731000000049,Indoor,Headphone,to be examed,to be filled
+S07_T03_194.wav,S07,M,Sunda,Keresahan,4.556439999999952,Indoor,Headphone,to be examed,to be filled
+S07_T03_195.wav,S07,M,Sunda,Keresahan,4.4035330000000386,Indoor,Headphone,to be examed,to be filled
+S07_T03_196.wav,S07,M,Sunda,Keresahan,4.520062000000053,Indoor,Headphone,to be examed,to be filled
+S07_T03_197.wav,S07,M,Sunda,Keresahan,5.574496999999951,Indoor,Headphone,to be examed,to be filled
+S07_T03_198.wav,S07,M,Sunda,Keresahan,1.2045839999999544,Indoor,Headphone,to be examed,to be filled
+S07_T03_199.wav,S07,M,Sunda,Keresahan,5.852460999999948,Indoor,Headphone,to be examed,to be filled
+S07_T03_200.wav,S07,M,Sunda,Keresahan,2.409655999999927,Indoor,Headphone,to be examed,to be filled
+S07_T03_201.wav,S07,M,Sunda,Keresahan,3.877354999999966,Indoor,Headphone,to be examed,to be filled
+S07_T03_202.wav,S07,M,Sunda,Keresahan,1.2048280000000204,Indoor,Headphone,to be examed,to be filled
+S07_T03_203.wav,S07,M,Sunda,Keresahan,6.850387999999953,Indoor,Headphone,to be examed,to be filled
+S07_T03_204.wav,S07,M,Sunda,Keresahan,2.5384690000000774,Indoor,Headphone,to be examed,to be filled
+S07_T03_205.wav,S07,M,Sunda,Keresahan,3.6164479999999912,Indoor,Headphone,to be examed,to be filled
+S07_T03_206.wav,S07,M,Sunda,Keresahan,3.7947470000000294,Indoor,Headphone,to be examed,to be filled
+S07_T03_207.wav,S07,M,Sunda,Keresahan,2.642789999999991,Indoor,Headphone,to be examed,to be filled
+S07_T03_208.wav,S07,M,Sunda,Keresahan,2.43414800000005,Indoor,Headphone,to be examed,to be filled
+S07_T03_209.wav,S07,M,Sunda,Keresahan,4.485787000000073,Indoor,Headphone,to be examed,to be filled
+S07_T03_210.wav,S07,M,Sunda,Keresahan,6.537426000000096,Indoor,Headphone,to be examed,to be filled
+S07_T03_211.wav,S07,M,Sunda,Keresahan,6.474758000000065,Indoor,Headphone,to be examed,to be filled
+S07_T03_212.wav,S07,M,Sunda,Keresahan,4.337159000000042,Indoor,Headphone,to be examed,to be filled
+S07_T03_213.wav,S07,M,Sunda,Keresahan,2.106620000000021,Indoor,Headphone,to be examed,to be filled
+S07_T03_214.wav,S07,M,Sunda,Keresahan,3.934423000000038,Indoor,Headphone,to be examed,to be filled
+S07_T03_215.wav,S07,M,Sunda,Keresahan,2.949993999999947,Indoor,Headphone,to be examed,to be filled
+S07_T03_216.wav,S07,M,Sunda,Keresahan,1.8587830000000167,Indoor,Headphone,to be examed,to be filled
+S07_T03_217.wav,S07,M,Sunda,Keresahan,3.438747000000035,Indoor,Headphone,to be examed,to be filled
+S07_T03_218.wav,S07,M,Sunda,Keresahan,2.292498999999907,Indoor,Headphone,to be examed,to be filled
+S07_T03_219.wav,S07,M,Sunda,Keresahan,2.3544579999999087,Indoor,Headphone,to be examed,to be filled
+S07_T03_220.wav,S07,M,Sunda,Keresahan,6.70782399999996,Indoor,Headphone,to be examed,to be filled
+S07_T03_221.wav,S07,M,Sunda,Keresahan,2.323478000000023,Indoor,Headphone,to be examed,to be filled
+S07_T03_222.wav,S07,M,Sunda,Keresahan,5.328509000000054,Indoor,Headphone,to be examed,to be filled
+S07_T03_223.wav,S07,M,Sunda,Keresahan,5.656247000000008,Indoor,Headphone,to be examed,to be filled
