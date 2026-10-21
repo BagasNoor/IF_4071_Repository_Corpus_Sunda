@@ -50,10 +50,6 @@ This repository serves as a corpus for creating ASR system that specifically han
       ├── pyproject.toml 
       └── uv.lock
   ```
-The .wav files are located in the audio directory and the format of each individual files follows the following convention S0X represents the speaker order, T0X represents the topic of which the speaker is currently speaking, and the last numbering is the index of the files for that specific speaker. 
-
-The annotations are located on annotation.csv which is located on the annotation directory and it consists of 2 columns (File, Annotation). For the metadata of each files are located on metadata.csv which is located in the metadata directory. The metadata consists of 10 columns (File, Speaker, Gender, Language, Topic, Duration, Environment, Device Quality, Note).
-
 ## File Naming Convention
 
 Audio files inside each speaker directory (`audio/S0X/`) follow a standardized naming structure:
@@ -84,7 +80,7 @@ Contains acoustic, demographic, and recording quality metadata across 10 fields.
 
 | Field | Description | Example |
 | :--- | :--- | :--- |
-| `File` | Relative file path | `audio/S01/S01_T01_001.wav` |
+| `File` | Relative file path | `S01/S01_T01_001.wav` |
 | `Speaker` | Speaker identifier | `S01` |
 | `Gender` | Speaker gender | `Male` / `Female` |
 | `Language` | Primary dialect/language | `Sundanese` |
