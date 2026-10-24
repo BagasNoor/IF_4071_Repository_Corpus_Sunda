@@ -1387,8 +1387,8 @@ S07_T02_151.wav,S07,M,Sunda,Kenangan,1.6669389999999566,Indoor,Headphone,Accepta
 S07_T02_152.wav,S07,M,Sunda,Kenangan,3.340408000000025,Indoor,Headphone,Acceptable,Strong fan noise
 S07_T02_153.wav,S07,M,Sunda,Kenangan,1.1017519999999197,Indoor,Headphone,Good,- Pronunciation unclear.
 S07_T02_154.wav,S07,M,Sunda,Kenangan,1.85427900000002,Indoor,Headphone,Acceptable,Strong fan noise
-S07_T02_155.wav,S07,M,Sunda,Kenangan,1.3907100000000128,Indoor,Headphone,Reject,Noise too loud
-S07_T02_156.wav,S07,M,Sunda,Kenangan,3.939330000000041,Indoor,Headphone,Reject,Noise too loud
+S07_T02_155.wav,S07,M,Sunda,Kenangan,1.3907100000000128,Indoor,Headphone,Good,-
+S07_T02_156.wav,S07,M,Sunda,Kenangan,3.939330000000041,Indoor,Headphone,Good,-
 S07_T02_157.wav,S07,M,Sunda,Kenangan,2.9101879999999483,Indoor,Headphone,Acceptable,Strong fan noise
 S07_T02_158.wav,S07,M,Sunda,Kenangan,5.047761000000037,Indoor,Headphone,Acceptable,Strong fan noise
 S07_T02_159.wav,S07,M,Sunda,Kenangan,4.9236419999999725,Indoor,Headphone,Good,-
@@ -1397,65 +1397,65 @@ S07_T02_161.wav,S07,M,Sunda,Kenangan,1.216397000000029,Indoor,Headphone,Good,-
 S07_T02_162.wav,S07,M,Sunda,Kenangan,2.4723719999999503,Indoor,Headphone,Good,-
 S07_T02_163.wav,S07,M,Sunda,Kenangan,6.95470899999998,Indoor,Headphone,Good,-
 S07_T03_164.wav,S07,M,Sunda,Keresahan,3.164393000000018,Indoor,Headphone,Acceptable,Strong fan noise
-S07_T03_165.wav,S07,M,Sunda,Keresahan,8.166875000000005,Indoor,Headphone,Reject,Noise too loud
-S07_T03_166.wav,S07,M,Sunda,Keresahan,3.545209,Indoor,Headphone,Reject,Noise too loud
-S07_T03_167.wav,S07,M,Sunda,Keresahan,6.95470899999998,Indoor,Headphone,Reject,Noise too loud
-S07_T03_168.wav,S07,M,Sunda,Keresahan,5.391287000000034,Indoor,Headphone,Reject,Noise too loud
-S07_T03_169.wav,S07,M,Sunda,Keresahan,6.527008000000024,Indoor,Headphone,Reject,Noise too loud
-S07_T03_170.wav,S07,M,Sunda,Keresahan,1.7658439999999018,Indoor,Headphone,Reject,Noise too loud
+S07_T03_165.wav,S07,M,Sunda,Keresahan,8.166875000000005,Indoor,Headphone,Good,-
+S07_T03_166.wav,S07,M,Sunda,Keresahan,3.545209,Indoor,Headphone,Good,-
+S07_T03_167.wav,S07,M,Sunda,Keresahan,6.95470899999998,Indoor,Headphone,Acceptable,Echo at the beginning
+S07_T03_168.wav,S07,M,Sunda,Keresahan,5.391287000000034,Indoor,Headphone,Good,-
+S07_T03_169.wav,S07,M,Sunda,Keresahan,6.527008000000024,Indoor,Headphone,Good,-
+S07_T03_170.wav,S07,M,Sunda,Keresahan,1.7658439999999018,Indoor,Headphone,Good,-
 S07_T03_171.wav,S07,M,Sunda,Keresahan,1.2082080000000133,Indoor,Headphone,Good,-
 S07_T03_172.wav,S07,M,Sunda,Keresahan,3.996381999999926,Indoor,Headphone,Acceptable,Strong fan noise
 S07_T03_173.wav,S07,M,Sunda,Keresahan,4.523037000000045,Indoor,Headphone,Good,-
 S07_T03_174.wav,S07,M,Sunda,Keresahan,2.888366999999903,Indoor,Headphone,Good,-
 S07_T03_175.wav,S07,M,Sunda,Keresahan,5.807080000000042,Indoor,Headphone,Acceptable,Strong fan noise
-S07_T03_176.wav,S07,M,Sunda,Keresahan,2.980775999999992,Indoor,Headphone,Reject,Noise too loud
+S07_T03_176.wav,S07,M,Sunda,Keresahan,2.980775999999992,Indoor,Headphone,Good,-
 S07_T03_177.wav,S07,M,Sunda,Keresahan,2.897976999999969,Indoor,Headphone,Good,-
 S07_T03_178.wav,S07,M,Sunda,Keresahan,5.351595999999972,Indoor,Headphone,Good,-
 S07_T03_179.wav,S07,M,Sunda,Keresahan,2.649579000000017,Indoor,Headphone,Good,-
-S07_T03_180.wav,S07,M,Sunda,Keresahan,4.182493999999906,Indoor,Headphone,Reject,Noise too loud
-S07_T03_181.wav,S07,M,Sunda,Keresahan,3.504954000000112,Indoor,Headphone,Reject,Noise too loud
-S07_T03_182.wav,S07,M,Sunda,Keresahan,1.697663000000034,Indoor,Headphone,Reject,Noise too loud
-S07_T03_183.wav,S07,M,Sunda,Keresahan,1.4428470000000289,Indoor,Headphone,Reject,Noise too loud
-S07_T03_184.wav,S07,M,Sunda,Keresahan,4.512626999999952,Indoor,Headphone,Reject,Noise too loud
-S07_T03_185.wav,S07,M,Sunda,Keresahan,2.8039629999999534,Indoor,Headphone,Reject,Noise too loud
-S07_T03_186.wav,S07,M,Sunda,Keresahan,5.975557999999978,Indoor,Headphone,Reject,Noise too loud
-S07_T03_187.wav,S07,M,Sunda,Keresahan,2.8039629999999534,Indoor,Headphone,Reject,Noise too loud
-S07_T03_188.wav,S07,M,Sunda,Keresahan,4.140225999999984,Indoor,Headphone,Reject,Noise too loud
-S07_T03_189.wav,S07,M,Sunda,Keresahan,3.7039270000000215,Indoor,Headphone,Reject,Noise too loud
+S07_T03_180.wav,S07,M,Sunda,Keresahan,4.182493999999906,Indoor,Headphone,Good,-
+S07_T03_181.wav,S07,M,Sunda,Keresahan,3.504954000000112,Indoor,Headphone,Good,-
+S07_T03_182.wav,S07,M,Sunda,Keresahan,1.697663000000034,Indoor,Headphone,Good,-
+S07_T03_183.wav,S07,M,Sunda,Keresahan,1.4428470000000289,Indoor,Headphone,Good,-
+S07_T03_184.wav,S07,M,Sunda,Keresahan,4.512626999999952,Indoor,Headphone,Good,-
+S07_T03_185.wav,S07,M,Sunda,Keresahan,2.8039629999999534,Indoor,Headphone,Good,-
+S07_T03_186.wav,S07,M,Sunda,Keresahan,5.975557999999978,Indoor,Headphone,Good,-
+S07_T03_187.wav,S07,M,Sunda,Keresahan,2.8039629999999534,Indoor,Headphone,Good,-
+S07_T03_188.wav,S07,M,Sunda,Keresahan,4.140225999999984,Indoor,Headphone,Good,-
+S07_T03_189.wav,S07,M,Sunda,Keresahan,3.7039270000000215,Indoor,Headphone,Good,-
 S07_T03_190.wav,S07,M,Sunda,Keresahan,1.6648529999999937,Indoor,Headphone,Good,-
 S07_T03_191.wav,S07,M,Sunda,Keresahan,4.200028999999972,Indoor,Headphone,Good,-
 S07_T03_192.wav,S07,M,Sunda,Keresahan,1.3800749999999198,Indoor,Headphone,Good,-
 S07_T03_193.wav,S07,M,Sunda,Keresahan,4.367731000000049,Indoor,Headphone,Acceptable,Strong fan noise
-S07_T03_194.wav,S07,M,Sunda,Keresahan,4.556439999999952,Indoor,Headphone,Reject,Noise too loud
-S07_T03_195.wav,S07,M,Sunda,Keresahan,4.403533000000039,Indoor,Headphone,Reject,Noise too loud
-S07_T03_196.wav,S07,M,Sunda,Keresahan,4.520062000000053,Indoor,Headphone,Reject,Noise too loud
-S07_T03_197.wav,S07,M,Sunda,Keresahan,5.574496999999951,Indoor,Headphone,Reject,Noise too loud
-S07_T03_198.wav,S07,M,Sunda,Keresahan,1.2045839999999544,Indoor,Headphone,Reject,Noise too loud
-S07_T03_199.wav,S07,M,Sunda,Keresahan,5.852460999999948,Indoor,Headphone,Reject,Noise too loud
-S07_T03_200.wav,S07,M,Sunda,Keresahan,2.409655999999927,Indoor,Headphone,Reject,Noise too loud
-S07_T03_201.wav,S07,M,Sunda,Keresahan,3.877354999999966,Indoor,Headphone,Reject,Noise too loud
-S07_T03_202.wav,S07,M,Sunda,Keresahan,1.2048280000000204,Indoor,Headphone,Reject,Noise too loud
-S07_T03_203.wav,S07,M,Sunda,Keresahan,6.850387999999953,Indoor,Headphone,Reject,Noise too loud
-S07_T03_204.wav,S07,M,Sunda,Keresahan,2.5384690000000774,Indoor,Headphone,Reject,Noise too loud
-S07_T03_205.wav,S07,M,Sunda,Keresahan,3.6164479999999912,Indoor,Headphone,Reject,Noise too loud
-S07_T03_206.wav,S07,M,Sunda,Keresahan,3.794747000000029,Indoor,Headphone,Reject,Noise too loud
-S07_T03_207.wav,S07,M,Sunda,Keresahan,2.642789999999991,Indoor,Headphone,Reject,Noise too loud
-S07_T03_208.wav,S07,M,Sunda,Keresahan,2.43414800000005,Indoor,Headphone,Reject,Noise too loud
-S07_T03_209.wav,S07,M,Sunda,Keresahan,4.485787000000073,Indoor,Headphone,Reject,Noise too loud
-S07_T03_210.wav,S07,M,Sunda,Keresahan,6.537426000000096,Indoor,Headphone,Reject,Noise too loud
-S07_T03_211.wav,S07,M,Sunda,Keresahan,6.474758000000065,Indoor,Headphone,Reject,Noise too loud
+S07_T03_194.wav,S07,M,Sunda,Keresahan,4.556439999999952,Indoor,Headphone,Good,-
+S07_T03_195.wav,S07,M,Sunda,Keresahan,4.403533000000039,Indoor,Headphone,Good,-
+S07_T03_196.wav,S07,M,Sunda,Keresahan,4.520062000000053,Indoor,Headphone,Good,-
+S07_T03_197.wav,S07,M,Sunda,Keresahan,5.574496999999951,Indoor,Headphone,Good,-
+S07_T03_198.wav,S07,M,Sunda,Keresahan,1.2045839999999544,Indoor,Headphone,Good,-
+S07_T03_199.wav,S07,M,Sunda,Keresahan,5.852460999999948,Indoor,Headphone,Good,-
+S07_T03_200.wav,S07,M,Sunda,Keresahan,2.409655999999927,Indoor,Headphone,Good,-
+S07_T03_201.wav,S07,M,Sunda,Keresahan,3.877354999999966,Indoor,Headphone,Good,-
+S07_T03_202.wav,S07,M,Sunda,Keresahan,1.2048280000000204,Indoor,Headphone,Good,-
+S07_T03_203.wav,S07,M,Sunda,Keresahan,6.850387999999953,Indoor,Headphone,Good,-
+S07_T03_204.wav,S07,M,Sunda,Keresahan,2.5384690000000774,Indoor,Headphone,Good,-
+S07_T03_205.wav,S07,M,Sunda,Keresahan,3.6164479999999912,Indoor,Headphone,Good,-
+S07_T03_206.wav,S07,M,Sunda,Keresahan,3.794747000000029,Indoor,Headphone,Good,-
+S07_T03_207.wav,S07,M,Sunda,Keresahan,2.642789999999991,Indoor,Headphone,Good,-
+S07_T03_208.wav,S07,M,Sunda,Keresahan,2.43414800000005,Indoor,Headphone,Good,-
+S07_T03_209.wav,S07,M,Sunda,Keresahan,4.485787000000073,Indoor,Headphone,Good,-
+S07_T03_210.wav,S07,M,Sunda,Keresahan,6.537426000000096,Indoor,Headphone,Good,-
+S07_T03_211.wav,S07,M,Sunda,Keresahan,6.474758000000065,Indoor,Headphone,Good,-
 S07_T03_212.wav,S07,M,Sunda,Keresahan,4.337159000000042,Indoor,Headphone,Good,-
 S07_T03_213.wav,S07,M,Sunda,Keresahan,2.106620000000021,Indoor,Headphone,Acceptable,Strong fan noise
 S07_T03_214.wav,S07,M,Sunda,Keresahan,3.934423000000038,Indoor,Headphone,Acceptable,Strong fan noise
-S07_T03_215.wav,S07,M,Sunda,Keresahan,2.949993999999947,Indoor,Headphone,Reject,Noise too loud
-S07_T03_216.wav,S07,M,Sunda,Keresahan,1.8587830000000167,Indoor,Headphone,Reject,Noise too loud
-S07_T03_217.wav,S07,M,Sunda,Keresahan,3.438747000000035,Indoor,Headphone,Reject,Noise too loud
-S07_T03_218.wav,S07,M,Sunda,Keresahan,2.292498999999907,Indoor,Headphone,Reject,Noise too loud
+S07_T03_215.wav,S07,M,Sunda,Keresahan,2.949993999999947,Indoor,Headphone,Good,-
+S07_T03_216.wav,S07,M,Sunda,Keresahan,1.8587830000000167,Indoor,Headphone,Good,-
+S07_T03_217.wav,S07,M,Sunda,Keresahan,3.438747000000035,Indoor,Headphone,Good,-
+S07_T03_218.wav,S07,M,Sunda,Keresahan,2.292498999999907,Indoor,Headphone,Good,-
 S07_T03_219.wav,S07,M,Sunda,Keresahan,2.3544579999999087,Indoor,Headphone,Good,-
-S07_T03_220.wav,S07,M,Sunda,Keresahan,6.70782399999996,Indoor,Headphone,Reject,Noise too loud
-S07_T03_221.wav,S07,M,Sunda,Keresahan,2.323478000000023,Indoor,Headphone,Reject,Noise too loud
-S07_T03_222.wav,S07,M,Sunda,Keresahan,5.328509000000054,Indoor,Headphone,Reject,Noise too loud
-S07_T03_223.wav,S07,M,Sunda,Keresahan,5.656247000000008,Indoor,Headphone,Reject,Noise too loud
+S07_T03_220.wav,S07,M,Sunda,Keresahan,6.70782399999996,Indoor,Headphone,Good,-
+S07_T03_221.wav,S07,M,Sunda,Keresahan,2.323478000000023,Indoor,Headphone,Acceptable,Audio ended a little bit earlier
+S07_T03_222.wav,S07,M,Sunda,Keresahan,5.328509000000054,Indoor,Headphone,Good,-
+S07_T03_223.wav,S07,M,Sunda,Keresahan,5.656247000000008,Indoor,Headphone,Good,-
 S08_T01_000.wav,S08,F,Sunda,Rutinitas,5.110638,Indoor,Headphone,Good,-
 S08_T01_001.wav,S08,F,Sunda,Rutinitas,7.279280999999999,Indoor,Headphone,Good,-
 S08_T01_002.wav,S08,F,Sunda,Rutinitas,4.066471000000002,Indoor,Headphone,Good,-
