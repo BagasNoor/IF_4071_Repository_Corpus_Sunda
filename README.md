@@ -1,7 +1,7 @@
 # IF_4071_Repository_Corpus_Sunda
 
 ## Description
-This repository serves as a corpus for creating ASR system that specifically handles the Sundanese language. The repository is also part of IF4071 (Speech Processing) lecture from Institut Technology of Bandung where students are instructed to prepare their own corpus using a predefined procedure to create a high quality, well documented, and ethically collected data. The corpus 
+This repository serves as a corpus for creating ASR system that specifically handles the Sundanese language. The repository is also part of IF4071 (Speech Processing) lecture from Institut Technology of Bandung where students are instructed to prepare their own corpus using a predefined procedure to create a high quality, well documented, and ethically collected data.
 
 ## Corpus Specification
 |Aspect        | Specifications               |
